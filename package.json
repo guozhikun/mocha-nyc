@@ -1,0 +1,25 @@
+{
+  "name": "material",
+  "version": "1.0.0",
+  "description": "前端素材库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mocha": "mocha --reporter mochawesome --require babel-core/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://Administrator@192.168.10.9:1111/sgui/material.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "file-save": "^0.2.0",
+    "uppercamelcase": "^3.0.0",
+    "babel-core": "~6.2.1",
+    "babel-preset-es2015": "~6.1.18",
+    "chai": "~3.4.1",
+    "mocha": "~2.3.4",
+    "mochawesome": "~3.1.1"
+  }
+}
