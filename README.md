@@ -5,8 +5,12 @@
       
 **npm i or cnpm i**
   
-**npm run test**
+**npm run test**  
+**在生成的mochawesome-report里查看单元测试的html结果**  
   
-**npm run cover**
+**npm run cover**  
+**在生成的cocerage里查看代码覆盖的html结果**
+  
  
+
  
