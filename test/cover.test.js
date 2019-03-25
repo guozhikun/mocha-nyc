@@ -1,0 +1,1 @@
+var cover= require('../js/cover.js');
