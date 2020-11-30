@@ -1,7 +1,7 @@
 # mocha-nyc
 **mocha+nyc单元测试代码覆盖率测试demo**
-![image](https://github.com/guozhikun/mocha-nyc/blob/master/image/cordCover.png)  
-![image](https://github.com/guozhikun/mocha-nyc/blob/master/image/test.png)  
+![image](https://github.com/guozhikun/mocha-nyc/blob/master/template/image/cordCover.png)  
+![image](https://github.com/guozhikun/mocha-nyc/blob/master/template/image/test.png)  
       
 **npm i or cnpm i**
   
