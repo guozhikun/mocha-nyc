@@ -1,5 +1,5 @@
 # mocha-nyc
-**mocha+nyc单元测试代码覆盖率测试demo**
+**mocha+nyc 组件模块单元测试,代码覆盖率测试demo**
 ![image](https://github.com/guozhikun/mocha-nyc/blob/master/template/image/cordCover.png)  
 ![image](https://github.com/guozhikun/mocha-nyc/blob/master/template/image/test.png)  
       
